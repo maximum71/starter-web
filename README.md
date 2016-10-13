@@ -12,3 +12,7 @@ small addition
 this is a small kdjsksfh
 
 ## How to contribute
+
+### Copyright
+
+Git.traibning
