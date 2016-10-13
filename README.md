@@ -15,4 +15,4 @@ this is a small kdjsksfh
 
 ### Copyright
 
-Git.traibning
+Git.traibning all rights reserverd
