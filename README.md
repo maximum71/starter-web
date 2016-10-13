@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple blab lblabbl new sentence for rebase
-small addition
+small addition more changes from myfeature branch
 
 ## Introduction
 
